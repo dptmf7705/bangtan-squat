@@ -1,0 +1,14 @@
+ext {
+    // Build configuration
+    buildToolsVersion = '30.0.2'
+    minSdkVersion = 21
+    compileSdkVersion = 30
+    targetSdkVersion = 30
+
+    // Gradle plugin
+    androidPluginVersion = '4.0.1'
+
+    // Libraries
+    appcompatVersion = '1.2.0'
+    constraintLayoutVersion = '2.0.1'
+}
