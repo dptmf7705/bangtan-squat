@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">방탄스쿼트</string>
+    <string name="permission_denied">카메라 권한이 필요합니다. \"설정 > 어플리케이션 > 방탄스쿼트 > 권한 > 카메라\"를 \"ON\"으로 설정해주세요.</string>
+    <string name="main_btn_camera">camera</string>
 </resources>

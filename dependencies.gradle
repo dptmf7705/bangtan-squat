@@ -25,4 +25,7 @@ ext {
     fbCrashlyticsVersion = '17.2.2'
     cameraxVersion = '1.0.0-beta07'
     cameraxViewVersion = '1.0.0-alpha14'
+    rxAndroidVersion = '2.0.1'
+    rxJavaVersion = '2.1.3'
+    tedPermissionVersion = '2.2.3'
 }
