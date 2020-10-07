@@ -8,7 +8,17 @@ ext {
     // Gradle plugin
     androidPluginVersion = '4.0.1'
 
+    // Google Services plugin
+    googlePluginVersion = '4.3.4'
+
+    // Crashlytics plugin
+    crashlyticsPluginVersion = '2.3.0'
+
     // Libraries
     appcompatVersion = '1.2.0'
     constraintLayoutVersion = '2.0.1'
+    fbAnalyticsVersion = '17.5.0'
+    fbCrashlyticsVersion = '17.2.2'
+    cameraxVersion = '1.0.0-beta07'
+    cameraxViewVersion = '1.0.0-alpha14'
 }
