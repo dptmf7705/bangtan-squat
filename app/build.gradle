@@ -54,4 +54,6 @@ dependencies {
     implementation "io.reactivex.rxjava2:rxjava:$rxJavaVersion"
     // Ted Permission
     implementation "gun0912.ted:tedpermission-rx2:$tedPermissionVersion"
+    // Logger
+    implementation "com.orhanobut:logger:$loggerVersion"
 }
